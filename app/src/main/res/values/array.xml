@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <string-array name="barcode_tag">
+        <item>Barcode</item>
+        <item>QRCode</item>
+    </string-array>
+
+    <string-array name="barcode_item_esc">
+        <item>Barcode</item>
+        <item>UPC-A</item>
+        <!--<item>UPC-E</item>-->
+        <item>EAN13</item>
+        <item>EAN8</item>
+        <item>CODE39</item>
+        <item>ITF</item>
+        <item>CODABAR</item>
+        <!--<item>CODE93</item>-->
+        <item>CODE128</item>
+        <item>QRCode</item>
+        <item>QRcode</item>
+    </string-array>
+    <string-array name="barcode_item_label">
+        <item>Barcode</item>
+        <item>UPC-A</item>
+        <!--<item>UPC-E</item>-->
+        <item>EAN13</item>
+        <item>EAN8</item>
+        <item>CODE39</item>
+        <item>ITF</item>
+        <item>CODABAR</item>
+        <!--<item>CODE93</item>-->
+        <item>CODE128</item>
+        <item>QRCode</item>
+        <item>QRcode</item>
+    </string-array>
+    <string-array name="barcode_item_label_zpl">
+        <item>Barcode</item>
+        <item>UPC-A</item>
+        <!--<item>UPC-E</item>-->
+        <item>EAN13</item>
+        <item>EAN8</item>
+        <item>CODE39</item>
+        <item>CODABAR</item>
+        <!--<item>CODE93</item>-->
+        <item>CODE128</item>
+        <item>QRCode</item>
+        <item>QRcode</item>
+    </string-array>
+
+    <integer-array name="indicator_color">
+        <item>@color/tag_blue_bg</item>
+        <item>@color/tag_orange_bg</item>
+        <item>@color/tag_red_bg</item>
+        <item>@color/tag_green_bg</item>
+        <item>@color/tag_blue_light_bg</item>
+    </integer-array>
+    <string-array name="font_type_esc">
+        <item>@string/spin_default_esc_font</item>
+        <item>Font-A</item>
+        <item>Font-B</item>
+        <item>Font-C</item>
+        <item>Font-D</item>
+    </string-array>
+</resources>
