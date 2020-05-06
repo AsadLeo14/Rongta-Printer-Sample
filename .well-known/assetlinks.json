@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.mohap.virtualclinic",
-    "sha256_cert_fingerprints":
-    ["0F:2B:D6:2A:32:5A:35:8A:7A:AA:EA:32:BB:3B:8E:F0:BF:71:F9:09:A9:93:AE:27:0D:F4:AF:BF:5B:CD:9E:54"]
-  }
-}]
